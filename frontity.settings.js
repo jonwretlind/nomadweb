@@ -1,10 +1,10 @@
 const settings = {
-  "name": "my-first-frontity-project",
+  "name": "Nomad Web.Pro Design and Development",
   "state": {
     "frontity": {
       "url": "https://test.frontity.org",
-      "title": "Test Frontity Blog",
-      "description": "WordPress installation for Frontity development"
+      "title": "Nomad Web.Pro",
+      "description": "Local web design and development, anywhere."
     }
   },
   "packages": [
